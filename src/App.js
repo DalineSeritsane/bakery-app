@@ -15,6 +15,7 @@ export default function App() {
     <div className="container main">
     <Router>
       <NavBar/>
+      
       <Routes>
         <Route path="/" element={<Layout/>}>
         <Route index element={<Home/>} />

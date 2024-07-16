@@ -14,7 +14,7 @@ export default function Footer() {
                 <p className="title">Contact Us</p>
                 <p>SolBakery@gmail.com</p>
                 <p>+27 582 5698 / +27 859 45251</p>
-                <p> 41 Dookeman Street, Midrand</p>
+                <p> 41 Indigo Street, Midrand</p>
             </div>
         </div>
         );
